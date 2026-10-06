@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/
+data-apitest/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+serve*.log
+server.pid
+sample.bin
+restored.bin
